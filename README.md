@@ -33,5 +33,4 @@ root@8e5699b9caa4:/works/w# webdev serve --hostname=0.0.0.0
 (3) and, open 'http://127.0.0.1:8080/' at your browser
 
 ![](sample_web.jpg)
-# Docker_project
-# Docker_project
+
