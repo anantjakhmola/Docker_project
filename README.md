@@ -1,10 +1,10 @@
 (1) run a docker image.
  
 ```
-git clone https://github.com/kyorohiro/my-code-server.git
-cd my-code-server/dart_flutter_web
-docker build . -t  dart_flutter_web 
-docker run -p 8443:8443 -p 8080:8080 -it dart_flutter_web vscode bash
+git clone https://github.com/anantjakhmola/Docker_project.git
+# Navigate to file location 
+docker build . -t  dart_flutter
+docker run -p 8443:8443 -p 8080:8080 -it dart_flutter_web bash
 ```
 
 (2) run vscode at code-server
